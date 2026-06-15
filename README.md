@@ -1,0 +1,2 @@
+# Financial-Volatility-Forecasting-using-Graph-Neural-Networks---Master-Dissertation
+Developed a Graph Neural Network (GNN) model in Python/PyTorch to forecast 22-day realized volatility using market correlation networks to capture cross-asset dependencies; benchmarked performance against HAR, LSTM, and GARCH models, achieving superior out-of-sample MAE across both pre- and post-COVID market regimes
